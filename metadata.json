@@ -1,0 +1,6 @@
+{
+  "name": "Word Hunt - Classic Word Search Puzzle Game",
+  "description": "Play endless word search puzzles in Bahasa Melayu and English with cute pastel themes, daily challenges, and unlimited levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
